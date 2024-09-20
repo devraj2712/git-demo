@@ -1,3 +1,12 @@
 hi I am devraj
 its a workshop
 its a good day
+git init
+git help
+git status
+git add
+git commit -m"New File"
+git log 
+git remote add origin link
+git branch -M main
+git push -u origin main 
